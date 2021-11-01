@@ -68,7 +68,7 @@ export const Uno = () => {
   // } = useContexto(persona);
 
   // console.log(nombreClave, anios, lat, long);
-  // =====================================================
+  // =========================================================
 
   return (
     <>
